@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @droid3030
 - 👀 I’m interested in learning to program.
-- 🌱 I’m currently learning basics of Python and C++.
+- 🌱 I’m currently learning basics of Java, Spring Boot, RESTful APIs, and full-stack development.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me ...
 
