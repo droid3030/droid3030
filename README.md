@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @droid3030
 - 👀 I’m interested in learning to program.
 - 🌱 I’m currently learning basics of Java, Spring Boot, RESTful APIs, and full-stack development.
-- 💞️ I’m looking to collaborate on any projects.
+- 💞️ I’m looking for my first role as a software developer or tester.
 - 📫 How to reach me ... aplute4@gmail.com
 
 <!---
