@@ -5,6 +5,7 @@
 - 💞️ I’m looking for my first role as a software developer or tester 🤞🤞.
 - 🚀 Please see my repos for copies of projects I have completed.
 - 📫 Reach out with any questions!    ...     aplute4@gmail.com
+- ➕ And feel free to connect with me on LinkedIn     ...     https://www.linkedin.com/in/andrew-plute/
 
 <!---
 droid3030/droid3030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
